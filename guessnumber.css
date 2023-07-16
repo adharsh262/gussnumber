@@ -1,0 +1,36 @@
+.para {
+    text-align: center;
+    color: #0052cc;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 50px;
+}
+.game-forehead-image {
+    width: 100vw;
+}
+.heading {
+    padding-top: 30px;
+    color: white;
+}
+.douted-image {
+    height: 60px;
+    width: 60px;
+    margin-top: 30px;
+}
+.guess-bg-container {
+    background-color: #246db6;
+    height: 50vh;
+}
+.user-input {
+    margin: 30px;
+    height: 30px;
+}
+.check-switch {
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+.info-para {
+    color: white;
+    font-size: 24px;
+    padding: 1px;
+} 
